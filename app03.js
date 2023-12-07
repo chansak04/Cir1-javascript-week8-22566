@@ -1,7 +1,7 @@
 const users = [
-    { name:'Alexx',address: "Thai.", age: 30 }, //Array 0
-    { name:'Bob',address: "Canada.", age: 35 }, //Array 1
-    { name:'Alisa',address: "USA.", age: 40}, //Array 2
+    { name:"Alexx",address: "Thai.", age: 30 }, //Array 0
+    { name:"Bob",address: "Canada.", age: 35 }, //Array 1
+    { name:"Alisa",address: "USA.", age: 40}, //Array 2
 ];
 //Destrucring in Object and Array
 // const[name, address, age] = users;
